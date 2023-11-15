@@ -8,13 +8,13 @@ Cześć, dużo osób pyta mnie od czego mogą zacząć naukę programowania, w t
 
 Polecam serdecznie ten kurs zrealizowany przez Mirosława Zelenta z kanału [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw). Sam od tego zaczynałem i mimo, że nie programuję w C++ to nie spotkałem nigdzie indziej źródła, w którym tak dobrze podstawy programowania byłby wytłumaczone. Więc nawet jeśli myślisz o front-end to polecam tę serię :)
 
-# CSS
+## CSS
 
 [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)
 
 Kurs CSS od Jonasa na pewno pozwoli Wam dowiedzieć się dużo o nowoczesnym CSS, nie widziałem lepszego kursu w tym temacie.
 
-# JS
+## JS
 
 [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
@@ -32,7 +32,7 @@ I tutaj dołożę jeszcze swoją cegiełkę, jeśli znasz już podstawy, to zach
 
 Na tej playliście możesz znaleźć serię wyzwań które stworzyłem na kanał [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg). Ich sens polega na tym, że pokazuję najpierw działającą aplikację, którą fajnie by było jakbyś sam spróbował stworzyć. W kolejnym filmiku pokazuję jak ja ją zrobiłem, dzięki temu możesz porównać rozwiązania :)
 
-# Vue
+## Vue
 
 [Mój kurs Vue 3](https://www.youtube.com/watch?v=m86Dv0DXS8k&list=PLAZEMftaY1lONL4NwbeC_WkCJ_FLt4hqK&index=1)
 
@@ -58,15 +58,13 @@ Tych kursów nie przerabiałem, ale słyszałem że są dobre. Czytałem natomia
 
 Oczywiście warto zapoznać się z dokumentacją, która odpowie na większośc pytań.
 
-
-
-# Ogólnie front-end
+## Ogólnie front-end
 
 [Kurs Samuraja Programowania](https://websamuraj.pl/)
 
 Sam tego kursu nie przerabiałem, bo pojawił się w momencie znałem już podstawy i nie potrzebowałem. Ale znając Bartka i to jak naucza, oraz biorąc pod uwagę od ilu osób słyszałem, że jest to super źródło na początek, to na pewno mogę polecić :)
 
-# Kanały na YT
+## Kanały na YT
 
 [Top 10 kanałów na YT związanych z programowaniem i nie tylko](https://www.youtube.com/watch?v=-zOk7E9R37o&list=PLAZEMftaY1lPZHUg2qEtnrjtJYVo7ZUNM&index=10)
 
